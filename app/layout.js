@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 export const metadata = {
-  title: "RD Digital Clone",
+  title: "ODSR Digital",
 };
 
 export default function RootLayout({ children }) {
